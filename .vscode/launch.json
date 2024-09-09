@@ -1,0 +1,14 @@
+{
+    "version": "0.0.0",
+    "configurations": [
+        {
+            "name": "Sign Helper",
+            "program": "lib/main.dart",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "debug",
+            // "flutterMode": "release",
+            "args": [],
+        }
+    ]
+}
